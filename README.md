@@ -1,5 +1,5 @@
 # pki2
-Updated PostKaliInstaller
+A slightly updated and refreshed PostKaliInstaller
 
 Usage: sudo python3 pki.py [options]
 
