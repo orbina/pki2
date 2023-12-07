@@ -1,0 +1,5 @@
+git+https://github.com/Tib3rius/AutoRecon.git
+termcolor
+cprint
+pycryptodomex
+requests
